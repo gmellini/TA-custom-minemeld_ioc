@@ -8,3 +8,7 @@ TA Tuning:
 - change timezone in default/props.conf to your TZ (see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 - change sourcetype and index in default/inputs.conf
 - change tcp listening port in default/inputs.conf
+
+Note: you can edit default/\*.conf files or add your changes to local/ dir
+
+Install the TA in the forwarder(s) that receive MineMeld data.
