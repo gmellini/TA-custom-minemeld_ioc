@@ -12,5 +12,8 @@ Possible TA Tuning:
 
 Note: you can edit default/\*.conf files or add your changes to the same files to be created in local/ dir
 
+To analyze MineMeld logs I wrote a simple application, available at this repo
+ https://github.com/gmellini/minemeld-analysis/
+
 *IMPORTANT*
 Install the TA in the Splunk forwarder(s), the servers that receive MineMeld JSON data.
